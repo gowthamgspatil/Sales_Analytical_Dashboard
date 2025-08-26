@@ -88,5 +88,7 @@ This dashboard helps businesses answer key questions like:
 ##  Contact
 
  **Author:** Gowtham GS Patil
+ 
  **Email:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
+
  **LinkedIn:** [linkedin.com/in/gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
