@@ -40,12 +40,12 @@ This dashboard helps businesses answer key questions like:
 
 ##  Key Features of Dashboard
 
-✔ **KPI Metrics** – Total Sales, Profit, Quantity Sold, and Average Discount.
-✔ **Trend Analysis** – Monthly & yearly revenue performance.
-✔ **Regional Performance** – Sales contribution by country, state, and city.
-✔ **Top Products** – Best-selling products by revenue and profit margin.
-✔ **Customer Insights** – High-value customers and order frequency.
-✔ **Profitability Analysis** – How discounts affect profitability.
+ **KPI Metrics** – Total Sales, Profit, Quantity Sold, and Average Discount.
+ **Trend Analysis** – Monthly & yearly revenue performance.
+ **Regional Performance** – Sales contribution by country, state, and city.
+ **Top Products** – Best-selling products by revenue and profit margin.
+ **Customer Insights** – High-value customers and order frequency.
+ **Profitability Analysis** – How discounts affect profitability.
 
 ---
 
@@ -78,17 +78,8 @@ This dashboard helps businesses answer key questions like:
 
 ---
 
-##  Dashboard Preview
-
-(Add a screenshot of your dashboard here – you already uploaded one in repo; use: `![DA1_page-0001](https://github.com/user-attachments/assets/0f1f502c-3a07-4751-9fa2-01c9e46e5049)
-`)
-
----
-
 ##  Contact
 
- **Author:** Gowtham GS Patil
- 
+ ** Gowtham GS Patil
  **Email:** [gowthamgshivamurthy@gmail.com](mailto:gowthamgshivamurthy@gmail.com)
-
  **LinkedIn:** [linkedin.com/in/gowthamgshivamurthy](https://www.linkedin.com/in/gowthamgshivamurthy)
